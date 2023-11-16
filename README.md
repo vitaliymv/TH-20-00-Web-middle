@@ -61,3 +61,7 @@ a=b<sup>2</sup>
 - git add . або git add -A
 - .gitignore
 - git commit -m "message"
+- git branch -M main
+- git remote add origin "your_url"
+- git push -u origin main
+- gitk
