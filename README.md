@@ -56,3 +56,8 @@ a=b<sup>2</sup>
 
 - [x] Convert 
 
+- git init
+- git status
+- git add . або git add -A
+- .gitignore
+- git commit -m "message"
