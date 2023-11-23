@@ -65,3 +65,4 @@ a=b<sup>2</sup>
 - git remote add origin "your_url"
 - git push -u origin main
 - gitk
+- git pull

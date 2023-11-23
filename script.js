@@ -30,3 +30,7 @@ $("input").on("change", function () {
 let answers = ["test1", "test2"];
 let div = document.createElement("div");
 div.className = "list";
+
+let object = {
+    "firstName": "Jack"
+};
