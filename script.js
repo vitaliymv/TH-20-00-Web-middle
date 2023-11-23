@@ -26,3 +26,7 @@ $("input").on("change", function () {
         $("#result").hide();
     }
 })
+
+let answers = ["test1", "test2"];
+let div = document.createElement("div");
+div.className = "list";
