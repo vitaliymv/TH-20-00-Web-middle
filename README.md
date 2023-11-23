@@ -66,3 +66,4 @@ a=b<sup>2</sup>
 - git push -u origin main
 - gitk
 - git pull
+- git merge
