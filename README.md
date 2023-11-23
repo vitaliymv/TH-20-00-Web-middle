@@ -67,3 +67,5 @@ a=b<sup>2</sup>
 - gitk
 - git pull
 - git merge
+- git branch
+- git checkout
