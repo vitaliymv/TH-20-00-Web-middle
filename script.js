@@ -26,3 +26,7 @@ $("input").on("change", function () {
         $("#result").hide();
     }
 })
+
+let object = {
+    "firstName": "Jack"
+};
